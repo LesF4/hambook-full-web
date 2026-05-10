@@ -1,5 +1,7 @@
 # 📻 HamBook (Full Web)
 
+[![Downloads](https://img.shields.io/github/downloads/LesF4/hambook-full-web/total?style=for-the-badge&label=DOWNLOADS&color=brightgreen)](https://github.com/LesF4/hambook-full-web/releases)
+
 **Petit logbook radioamateur simple et sans prétention, utilisable directement dans un navigateur**
 
 > 📡 Version 1.5.0 — Mai 2026
