@@ -4,7 +4,7 @@
 
 **Petit logbook radioamateur simple et sans prétention, utilisable directement dans un navigateur**
 
-> 📡 Version 1.5.0 — Mai 2026
+> 📡 Version 1.6.0 — Mai 2026
 > Développé par **F1RIQ Antony**
 
 ---
@@ -24,7 +24,7 @@ HamBook est un **carnet de trafic radio "tout-en-un"** sous la forme d'un **fich
 - ✅ **Aucune installation** — un simple double-clic sur le fichier suffit
 - ✅ **Fonctionne hors ligne** dans n'importe quel navigateur (Chrome, Firefox, Edge, Safari)
 - ✅ **Données stockées localement** dans le navigateur (rien sur le cloud sans votre accord)
-- ✅ **Mobile et desktop** — interface adaptée aux smartphones (wizard 3 étapes)
+- ✅ **Mobile et desktop** — interface adaptée aux smartphones (wizard 5 étapes)
 
 ---
 
@@ -36,9 +36,10 @@ HamBook est un **carnet de trafic radio "tout-en-un"** sous la forme d'un **fich
 - 🌤️ **Météo Open-Meteo** + **propagation NOAA** (bandes ouvertes / fermées)
 - 📡 **Distance + azimut** automatiques entre vous et votre correspondant
 - ☀️ **Thème jour / nuit** automatique (06h–21h) ou manuel
+- 🔤 **Contrôle taille de police** (A−/100%/A+) — mémorisé localement
 - 📤 **Export ADIF** vers LoTW, eQSL.cc, Wavelog, ClubLog, Ham Radio Deluxe
 - ✉️ **Export mail SMTP natif** (Orange, Free, SFR, La Poste, Gmail) via script PHP
-- 📱 **Wizard mobile** plein écran en 3 étapes pour saisir un QSO d'une main
+- 📱 **Wizard mobile** plein écran en 5 étapes pour saisir un QSO d'une main
 
 ---
 
@@ -52,7 +53,7 @@ HamBook est un **carnet de trafic radio "tout-en-un"** sous la forme d'un **fich
 ## 📦 Installation et utilisation
 
 1. Rendez-vous dans la section [**Releases**](../../releases) du dépôt
-2. Téléchargez le fichier `HamBook_v1.5.html` depuis la dernière version
+2. Téléchargez le fichier `HamBook_v1.6.html` depuis la dernière version
 3. **Double-cliquez** sur le fichier — il s'ouvre directement dans votre navigateur
 4. *(Optionnel)* Cliquez sur **📖 Notice** dans l'application pour la documentation complète et l'historique des versions
 
@@ -60,7 +61,19 @@ HamBook est un **carnet de trafic radio "tout-en-un"** sous la forme d'un **fich
 
 ---
 
-## 📜 Historique des versions (depuis V1.5)
+## 📜 Historique des versions
+
+### Version 1.6.0 — 15 mai 2026
+
+- 🎨 Header : harmonisation des icônes SVG (gabarit uniforme 30×30)
+- 🎯 Hover coloré par fonction sur les icônes du header
+- ☀️ Améliorations du thème clair
+
+### Version 1.5.1 — 15 mai 2026
+
+- 🔤 Contrôle de la taille de police (A−/100%/A+) avec 4 paliers
+- 💾 Préférence mémorisée dans le navigateur (localStorage)
+- ⚡ Anti-flash au chargement
 
 ### Version 1.5.0 — 9 mai 2026
 
@@ -69,7 +82,7 @@ HamBook est un **carnet de trafic radio "tout-en-un"** sous la forme d'un **fich
 - 📝 Changelog HTML intégré dans la notice
 - 📌 Affichage de la version dans la notice
 
-> 📚 **L'historique complet de toutes les versions (V1.1.0 à V1.5.0)** est intégré directement dans la **Notice** de l'application — accessible via le bouton **📖 Notice** en haut à droite de l'interface.
+> 📚 **L'historique complet de toutes les versions (V1.0.0 à V1.6.0)** est intégré directement dans la **Notice** de l'application — accessible via le bouton **📖 Notice** en haut à droite de l'interface.
 
 ---
 
